@@ -1,4 +1,4 @@
-## Hi, I'm M. Syahrindra
+## 👋 Hi, I'm M. Syahrindra
 
 🎓 **Bachelor of Computer Science, Universitas Widyatama**
 - Currently pursuing a degree in Informatics (2021 - 2025).
