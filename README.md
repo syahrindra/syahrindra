@@ -4,7 +4,7 @@
 - Currently pursuing a degree in Informatics (2021 - 2025).
 - Selected participant in **Bangkit Academy 2024**, focusing on Machine Learning.
 
-  ## 💻 Tech Stack
+  ## 💻 Programming languages and Tools
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
